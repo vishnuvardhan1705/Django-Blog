@@ -39,8 +39,14 @@ A full-featured blog web application built using Django. This project allows use
 
 ### Dashboard
 
-![Category](screenshots/category1.png)
+![Dshboard](screenshots/category1.png)
 
-### BlogDetailview
+### Blog Detail View
 
 ![BlogDetailview](screenshots/singleblog1.png)
+
+### Category Based View Page
+
+![Category Base View Page](screenshots/categorybasedview.png)
+
+
