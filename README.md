@@ -36,3 +36,11 @@ A full-featured blog web application built using Django. This project allows use
 ### Home
 ![Home](screenshots/home1.png)
 ![Home](screenshots/home2.png)
+
+### Dashboard
+
+![Category](screenshots/category1.png)
+
+### BlogDetailview
+
+![BlogDetailview](screenshots/singleblog1.png)
